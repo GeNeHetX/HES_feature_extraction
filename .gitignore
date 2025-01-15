@@ -1,3 +1,11 @@
+# Data
+data/
+data_hdd/
+qp-projects/
+
+# Tokens
+*.key
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
