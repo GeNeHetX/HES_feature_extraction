@@ -2,6 +2,7 @@
 data/
 data_hdd/
 qp-projects/
+core
 
 # Tokens
 *.key
