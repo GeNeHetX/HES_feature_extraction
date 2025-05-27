@@ -23,7 +23,7 @@ model = load_UNI2h(device)
 transform = create_transform(**resolve_data_config(model.pretrained_cfg, model=model))
 
 # Determine the slides id
-path = "data_external/done"
+path = "data_external"
 lames = os.listdir(path)
 
 for lame in lames:
